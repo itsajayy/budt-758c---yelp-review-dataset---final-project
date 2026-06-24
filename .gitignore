@@ -1,0 +1,19 @@
+﻿# Auto-generated .gitignore
+# Common large data and build artifacts
+*.csv
+*.xlsx
+*.h5
+*.pth
+*.zip
+*.tar
+*.gz
+*.7z
+*.mp4
+*.mov
+*.wav
+node_modules/
+__pycache__/
+*.ipynb_checkpoints/
+review_test_x.csv
+review_train_x.csv
+user_clean.csv
